@@ -22,4 +22,4 @@ This will return a URL that can be used to access the function.
 
 ### Domain
 
-Through route 53 I think we can set up domains using this: https://www.serverless.com/plugins/serverless-domain-manager.
+Through route 53 we can set up domains using: https://www.serverless.com/plugins/serverless-domain-manager.
